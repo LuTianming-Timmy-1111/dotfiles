@@ -1,1 +1,1 @@
-set autoindent expandtab tabstop=4 shiftwidth=4 softtab=4
+set autoindent expandtab tabstop=4 shiftwidth=4 softtabstop=4
